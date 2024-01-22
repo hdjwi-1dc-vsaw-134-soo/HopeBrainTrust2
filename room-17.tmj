@@ -235,7 +235,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"zone",
                  "height":610.768,
                  "id":1,
                  "name":"focus",
@@ -251,13 +250,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":1087.69,
                  "x":414.988119563551,
                  "y":190.329407288618
                 }, 
                 {
-                 "class":"area",
                  "height":49.1637768315702,
                  "id":2,
                  "name":"exit-to-map",
@@ -268,6 +267,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/hope-brain-trust\/hope-brain-trust#entry-room-17"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.0884947982968,
                  "x":928.405249989026,
@@ -333,6 +333,11 @@
          "value":"Hope Brain Trust is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }, 
         {
+         "name":"mapImage",
+         "type":"string",
+         "value":"room-17.png"
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"Hope Brain Trust Room 17"
@@ -343,7 +348,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -423,6 +428,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":60
 }
