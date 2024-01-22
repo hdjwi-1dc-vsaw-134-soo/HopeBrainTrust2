@@ -9988,7 +9988,7 @@
             }
           ],
           "rotation": 0,
-          "class": "zone",
+          "type": "zone",
           "width": 1087.69
         },
         {
@@ -10006,7 +10006,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 62.5985138482323
         }
       ],
@@ -12012,12 +12012,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "room-21-chunk-1-62723564.png",
+      "image": "room-21-chunk-1-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12053,7 +12053,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "room-21-chunk-2-62723564.png",
+      "image": "room-21-chunk-2-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12068,7 +12068,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "room-21-chunk-3-62723564.png",
+      "image": "room-21-chunk-3-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12083,7 +12083,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "room-21-chunk-4-62723564.png",
+      "image": "room-21-chunk-4-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12098,7 +12098,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "room-21-chunk-5-62723564.png",
+      "image": "room-21-chunk-5-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12113,7 +12113,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "room-21-chunk-6-62723564.png",
+      "image": "room-21-chunk-6-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12128,7 +12128,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "room-21-chunk-7-62723564.png",
+      "image": "room-21-chunk-7-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12143,7 +12143,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "room-21-chunk-8-62723564.png",
+      "image": "room-21-chunk-8-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12158,7 +12158,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "room-21-chunk-9-62723564.png",
+      "image": "room-21-chunk-9-b071be0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12173,7 +12173,7 @@
     {
       "columns": 12,
       "firstgid": 2305,
-      "image": "room-21-chunk-10-62723564.png",
+      "image": "room-21-chunk-10-b071be0f.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -12200,6 +12200,11 @@
       "value": "Hope Brain Trust is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     },
     {
+      "name": "mapImage",
+      "type": "string",
+      "value": "room-21.png"
+    },
+    {
       "name": "mapName",
       "type": "string",
       "value": "Hope Brain Trust Room 21"
@@ -12213,7 +12218,7 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 60,
   "editorsettings": {
     "export": {

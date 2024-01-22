@@ -9988,7 +9988,7 @@
             }
           ],
           "rotation": 0,
-          "class": "zone",
+          "type": "zone",
           "width": 1091.54632583758
         },
         {
@@ -10006,7 +10006,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 63.5308491142334
         }
       ],
@@ -12012,12 +12012,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "room-24-chunk-1-18072160.png",
+      "image": "room-24-chunk-1-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12053,7 +12053,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "room-24-chunk-2-18072160.png",
+      "image": "room-24-chunk-2-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12068,7 +12068,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "room-24-chunk-3-18072160.png",
+      "image": "room-24-chunk-3-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12083,7 +12083,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "room-24-chunk-4-18072160.png",
+      "image": "room-24-chunk-4-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12098,7 +12098,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "room-24-chunk-5-18072160.png",
+      "image": "room-24-chunk-5-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12113,7 +12113,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "room-24-chunk-6-18072160.png",
+      "image": "room-24-chunk-6-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12128,7 +12128,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "room-24-chunk-7-18072160.png",
+      "image": "room-24-chunk-7-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12143,7 +12143,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "room-24-chunk-8-18072160.png",
+      "image": "room-24-chunk-8-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12158,7 +12158,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "room-24-chunk-9-18072160.png",
+      "image": "room-24-chunk-9-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12173,7 +12173,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "room-24-chunk-10-18072160.png",
+      "image": "room-24-chunk-10-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12188,7 +12188,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "room-24-chunk-11-18072160.png",
+      "image": "room-24-chunk-11-58dff4bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12203,7 +12203,7 @@
     {
       "columns": 7,
       "firstgid": 2817,
-      "image": "room-24-chunk-12-18072160.png",
+      "image": "room-24-chunk-12-58dff4bf.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -12230,6 +12230,11 @@
       "value": "Hope Brain Trust is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     },
     {
+      "name": "mapImage",
+      "type": "string",
+      "value": "room-24.png"
+    },
+    {
       "name": "mapName",
       "type": "string",
       "value": "Hope Brain Trust Room 24"
@@ -12243,7 +12248,7 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 60,
   "editorsettings": {
     "export": {
