@@ -10024,7 +10024,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "room-2-chunk-1-81d44b0d.png",
+      "image": "room-2-chunk-1-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10060,7 +10060,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "room-2-chunk-2-81d44b0d.png",
+      "image": "room-2-chunk-2-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10075,7 +10075,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "room-2-chunk-3-81d44b0d.png",
+      "image": "room-2-chunk-3-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10090,7 +10090,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "room-2-chunk-4-81d44b0d.png",
+      "image": "room-2-chunk-4-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10105,7 +10105,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "room-2-chunk-5-81d44b0d.png",
+      "image": "room-2-chunk-5-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10120,7 +10120,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "room-2-chunk-6-81d44b0d.png",
+      "image": "room-2-chunk-6-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10135,7 +10135,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "room-2-chunk-7-81d44b0d.png",
+      "image": "room-2-chunk-7-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10150,7 +10150,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "room-2-chunk-8-81d44b0d.png",
+      "image": "room-2-chunk-8-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10165,7 +10165,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "room-2-chunk-9-81d44b0d.png",
+      "image": "room-2-chunk-9-d2a133cb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10180,7 +10180,7 @@
     {
       "columns": 12,
       "firstgid": 2305,
-      "image": "room-2-chunk-10-81d44b0d.png",
+      "image": "room-2-chunk-10-d2a133cb.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
